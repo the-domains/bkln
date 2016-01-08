@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Bkln]]></title>
         <description><![CDATA[Bkln]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bkln/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 16:30:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jan 2016 16:33:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bkln/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>October 21, 2015: https://vine.co/v/eVuuvI5gguh</p>]]></description>
+            <link>https://twitter.com/museummammy/status/656946476904521730</link>
+            <guid isPermaLink="false">30b83964-aab6-4bcc-90b7-8cdb8bbccbf2</guid>
+            <pubDate>Fri, 08 Jan 2016 16:33:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Brooklyn&period;" src="https://pbs.twimg.com/media/CYIvgXJWsAEzUjm.jpg:large">]]></description>
